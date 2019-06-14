@@ -1,4 +1,5 @@
-# Contributor Management database for the IBM clerical resolution alpha.
+# Contributor Management database.
+This is the repo for the code and SQL used to create and set up a postgres relational database in AWS using RDS and Terraform. The Contributor Management Database is to be used as the backend of the IBM alpha to produce a solution to the clerical resolution tasks needed to be performed by the business.
 
 ## Economic Stats-terraform
 Inital Azure Terraform script for Postgresql Database 
