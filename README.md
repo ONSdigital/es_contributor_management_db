@@ -1,7 +1,9 @@
-# takeon-terraform
+# Contributor Management database for the IBM clerical resolution alpha.
+
+## Economic Stats-terraform
 Inital Azure Terraform script for Postgresql Database 
 
-# Installing and Setting up Terraform
+## Installing and Setting up Terraform
 1. To install Terraform, find the appropriate package for your system and download it. Terraform is packaged as a zip archive.
 
 After downloading Terraform, unzip the package. Terraform runs as a single binary named terraform. Any other files in the package can be safely removed and Terraform will still function.
