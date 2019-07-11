@@ -7,3 +7,7 @@
 
 # .tfvars files
 *.tfvars
+
+# PYCharm Files
+*.idea
+*venv
